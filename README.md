@@ -3,7 +3,7 @@
 ●	What did you like about this project?
 
 This project is a good practice for JavaScript Beginner. It is helpful because you can put in use of conditional statements, 
-loops, arrays, class, contructors, functions and methods all that learnt till now  in this project.
+loops, arrays, class, contructors, functions and methods all that is learnt till now  in this project.
 
 ●	What did you struggle with in this project?
 
